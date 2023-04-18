@@ -1,5 +1,12 @@
 print('hello world')
 
+a = 1
+
+b = 2
+
+if a < b:
+    print("yes")
+
 # 代发
 Kaiguan = 'yes'
 
